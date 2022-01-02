@@ -1,4 +1,12 @@
-### Hi there 👋
+# Croeso 👋
+
+I'm Jack, a computer and robotics engineer from Wales. I primarily work as a software engineer while working in a broad range of computing areas on the side. I aim to broaden my horizons when it comes to work, but I do particularly love robotics-related projects.
+
+I have a BSc undergraduate degree in Robotics and AI (which includes a standard computer science background) and a MSc Master's degree in Advanced Computer Science. My top tech skills include C, C++, Linux use and development, and robotics middleware use and development.
+
+## What I'm Currently Up To
+
+I'm currently working on beefing up my portfolio and getting ready to enter the world of work after having graduated university. Exciting stuff!
 
 <!--
 **jackrgm/jackrgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
