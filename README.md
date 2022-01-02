@@ -8,7 +8,7 @@ I have a BSc undergraduate degree in Robotics and AI (which includes a standard 
 
 I'm currently working on beefing up my portfolio and getting ready to enter the world of work after having graduated university. Exciting stuff!
 
-<a rel="me" href="https://fosstodon.org/@welshcake">Mastodon</a>
+`<a rel="me" href="https://fosstodon.org/@welshcake">Mastodon</a>`
 
 <!--
 **jackrgm/jackrgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
