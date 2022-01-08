@@ -6,7 +6,7 @@ I have a BSc undergraduate degree in Robotics and AI (which includes a standard 
 
 ## Skills
 
-My top tech skills include C, C++, Linux (use and development), and robotics middleware (use and development).
+My top tech skills include C, C++, Linux (use and development), and robotics middleware (use and development). My experience in team-based work has shown that I'm especially strong in the areas of high-level thinking, organisation, and communication.
 
 ## What I'm Currently Up To
 
