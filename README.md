@@ -10,7 +10,7 @@ My top tech skills include C, C++, Linux (use and development), and robotics mid
 
 ## What I'm Currently Up To
 
-I'm currently working on beefing up my portfolio and getting ready to enter the world of work after having graduated university. Exciting stuff!
+I've not long got a new job, working as an R&D software engineer.
 
 <!--
 **jackrgm/jackrgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
