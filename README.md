@@ -2,7 +2,11 @@
 
 I'm Jack, a computer and robotics engineer from Wales. I primarily work as a software engineer while working in a broad range of computing areas on the side. I aim to broaden my horizons when it comes to work, but I do particularly love robotics-related projects.
 
+## Qualifications
+
 I have a BSc undergraduate degree in Robotics and AI (which includes a standard computer science background) and a MSc postgraduate degree in Advanced Computer Science.
+
+I have some industry experience working as a software engineer in the defence sector, working in a research & development context and having delivered high-quality code which complies to safety standards and strict specifications.
 
 ## Skills
 
