@@ -4,7 +4,7 @@ I'm Jack, a computer and robotics engineer from Wales. I primarily work as a sof
 
 ## Qualifications
 
-I have a BSc undergraduate degree in Robotics and AI (which includes a standard computer science background) and a MSc postgraduate degree in Advanced Computer Science.
+I have a BSc undergraduate degree in 'Robotics and AI' (which includes a standard computer science background) and a MSc postgraduate degree in 'Advanced Computer Science'.
 
 I have some industry experience working as a software engineer in the defence sector, working in a research & development context and having delivered high-quality code which complies to safety standards and strict specifications.
 
