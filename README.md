@@ -1,6 +1,10 @@
 # Croeso 👋
 
-I'm Jack, a computer and robotics engineer from Wales. I primarily work as a software engineer while working in a broad range of computing areas on the side. I aim to broaden my horizons when it comes to work, but I do particularly love robotics-related projects.
+I'm Jack, a computer and robotics engineer from Wales.
+
+I primarily work as a software engineer while working in a broad range of computing areas on the side.
+
+I aim to broaden my horizons when it comes to work, but I do particularly love robotics-related projects.
 
 ## Qualifications
 
