@@ -10,7 +10,7 @@ I aim to broaden my horizons when it comes to work, but I do particularly love r
 
 I have a BSc undergraduate degree in 'Robotics and AI' (which includes a standard computer science background) and a MSc postgraduate degree in 'Advanced Computer Science'.
 
-I have some industry experience working as a software engineer in the defence sector, working in a research & development context and having delivered high-quality code which complies to safety standards and strict specifications. My industry experience also involves following agile development (specifically Scrum), completing stories and helping my team achieve its goals planned in timeboxed interations.
+I have some industry experience working as a software engineer in the defence sector, working in a research & development context and having delivered high-quality code; developing applications which comply with critical safety standards and meets strict military specifications. My industry experience also involves following agile development such as Scrum and SAFe, completing stories and helping my team achieve its goals planned in timeboxed iterations.
 
 ## Skills
 
