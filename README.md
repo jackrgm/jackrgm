@@ -1,10 +1,12 @@
-# Croeso 👋
+# Croeso / Welcome
 
-I'm Jack, a computer engineer from Wales with a specialisation in robotics and embedded systems. I primarily work as a software engineer while working on a variety of personal projects, such as robots and robot simulations, websites, small home devices, and managing a home server.
+I'm Jack, a computer engineer from Wales with specialisations in robotics, embedded systems, and software engineering.
 
-## Experience
+My personal projects on GitHub include robot software, firmware, Linux and Windows desktop applications, Discord bots, and more.
 
-I have a BSc undergraduate degree in Robotics and Artificial Intelligence (which includes a standard computer science background) and a MSc postgraduate degree in Advanced Computer Science.
+## Professional Background
+
+I have a BSc undergraduate degree in Robotics and Artificial Intelligence, which included a standard computer science curruculum (e.g. DSA). I also have a MSc postgraduate degree in Advanced Computer Science.
 
 I have some industry experience working as a software engineer in the defence sector, working in a research & development context. As part of this, I've delivered high-quality code that complies with critical safety standards (e.g. MISRA) and various military specifications (e.g. DEF STAN 23-009). My industry experience also includes agile processes like Scrum and SAFe.
 
