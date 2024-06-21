@@ -16,8 +16,10 @@ I often work with Bash, C, C++, Linux, and ROS, though I have a very diverse ski
 
 I'm familiar with C#, HTML & CSS, Java, JavaScript, PowerShell, Python, and SQL.
 
-I've worked with Arduino, Azure DevOps, CMake, DDS communication, Git, YARP (Yet Another Robotics Platform), SQLite, and the Windows Command Prompt (cmd.exe, plus batch scripting), among various other tools and technologies.
+I've worked with Arduino, Azure DevOps, CMake, DDS communication, Git, YARP (Yet Another Robotics Platform), and SQLite among various other tools and technologies.
 
-I'm also familiar with Windows, including as a development environment. I've used a range of testing suites and tools, including CppUTest, Google Test (gtest), JUnit, and Parasoft, along with various self-made or specialised solutions.
+I'm also familiar with Windows development, having worked with various Windows technologies including Command Prompt and Batch scripting, PowerShell, .NET and WPF applicatiins.
 
-I've also worked with a variety of software design, process, and documentation tools and I (unironically) love writing documentation. I enjoy working with UML too.
+I've used a range of testing suites and tools, including CppUTest, Google Test (gtest), JUnit, and Parasoft, along with various self-made or specialised solutions.
+
+I like working on all aspects of the software engineering process and I particularly enjoy design and documentation. A fair bit of my work features UML to communicate overview information, often done with PlantUML.
