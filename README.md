@@ -6,7 +6,7 @@ My personal projects on GitHub include robot software, firmware, Linux and Windo
 
 ## Professional Background
 
-I have a BSc undergraduate degree in Robotics and Artificial Intelligence, which included a standard computer science curruculum (e.g. DSA). I also have a MSc postgraduate degree in Advanced Computer Science.
+I have a BSc undergraduate degree in Robotics and Artificial Intelligence, which included a standard computer science curriculum (e.g. data structures and algorithms). I also have a MSc postgraduate degree in Advanced Computer Science.
 
 I have some industry experience working as a software engineer in the defence sector, working in a research & development context. As part of this, I've delivered high-quality code that complies with critical safety standards (e.g. MISRA) and various military specifications (e.g. GVA; DEF STAN 23-009). My industry experience also includes agile processes like Scrum and SAFe.
 
