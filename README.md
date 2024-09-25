@@ -18,7 +18,7 @@ I'm familiar with C#, HTML & CSS, Java, JavaScript, PowerShell, Python, and SQL.
 
 I've worked with Arduino, Azure DevOps, CMake, DDS communication, Git, YARP (Yet Another Robotics Platform), and SQLite among various other tools and technologies.
 
-I'm also familiar with Windows development, having worked with various Windows technologies including Command Prompt and Batch scripting, PowerShell, .NET and WPF applicatiins.
+I'm also familiar with Windows development, having worked with various Windows technologies including Command Prompt and Batch scripting, PowerShell, .NET and WPF applications.
 
 I've used a range of testing suites and tools, including CppUTest, Google Test (gtest), JUnit, and Parasoft, along with various self-made or specialised solutions.
 
